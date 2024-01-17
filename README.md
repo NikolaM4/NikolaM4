@@ -7,7 +7,7 @@ Student focused on web development
 I am first-year Computer Science and Information Technologies student at Faculty of Electrical Engineering and Computer Science in Maribor. I am currently focused on web development (I use mainly JavaScript, but you can see other languages, libraries and frameworks which I used).
 
 *   🌍  I'm based in Maribor, Slovenia
-*   🖥️  See my portfolio at [https://nikola-mitrovic-portfolio.netlify.app/](http://nikola-mitrovic-portfolio.netlify.app/) (It will be reworked soon)
+*   🖥️  See my portfolio at [https://nikola-mitrovic-portfolio.netlify.app/](http://nikola-mitrovic-portfolio.netlify.app/)
 
 ### Skills
 
