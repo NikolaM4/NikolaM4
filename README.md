@@ -8,6 +8,7 @@ I am first-year Computer Science and Information Technologies student at Faculty
 
 *   🌍  I'm based in Maribor, Slovenia
 *   🖥️  See my portfolio at [https://nikola-mitrovic-portfolio.netlify.app/](http://nikola-mitrovic-portfolio.netlify.app/)
+*   🎨  My Design and Webflow portfolio: [https://www.nikola-mitrovic.com/](https://www.nikola-mitrovic.com/)
 
 ### Skills
 
